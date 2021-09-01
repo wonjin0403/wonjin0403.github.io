@@ -3,7 +3,7 @@ layout: default
 title: Kaggle
 nav_order: 5
 has_children: true
-permalink: docs/Kaggle
+permalink: docs/kaggle
 ---
 
 # Utilities
